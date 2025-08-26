@@ -1,0 +1,27 @@
+Design Patterns & Anti-patterns
+
+2. System Design & Scalability
+
+Scalability principles
+
+Horizontal vs Vertical scaling
+
+Load balancing, sharding, partitioning
+
+Caching strategies
+
+Client-side, CDN, Redis/Memcached
+
+Database design
+
+Normalization vs denormalization
+
+Indexing, query optimization
+
+High availability
+
+Replication, failover, disaster recovery
+
+Performance engineering
+
+Profiling, bottleneck analysis, async job queue
