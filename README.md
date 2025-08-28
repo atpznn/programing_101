@@ -144,3 +144,8 @@ Data-driven decision → อ่าน metrics, A/B testing, analytics แล้�
 
 
 
+
+frotnend :: backend 
+page -> controller 
+component -> service 
+service/api -> repository / db 
