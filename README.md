@@ -158,3 +158,16 @@ clean code
 - don't use a number value directly it is magic number use variable 
 - use guard condition and store value to variable to check before enter or execute a business logic 
 - write business logic
+
+refactor step 
+if refactor business logic please don't refacter test case together 
+if refactor test case please don't refacter business logic
+
+code duplicate or business logic some action has same code or duplicate but parameter is not same value but has relation we should refactor and group to array or function 
+
+
+design priciple 
+please don't alway use or apply don't use it 
+if want to use need to have a reason support 
+
+composition class and interface can reduce a couple problem don't use directly class 
