@@ -151,3 +151,10 @@ component -> service
 service/api -> repository / db 
 
 https://github.com/Sakul/TDD
+
+
+
+clean code 
+- don't use a number value directly it is magic number use variable 
+- use guard condition and store value to variable to check before enter or execute a business logic 
+- write business logic
